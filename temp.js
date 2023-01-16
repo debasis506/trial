@@ -1,5 +1,5 @@
   
-  let obj={
+  let obj={}
   for(let i=0;i<n;i++){
       if(obj[arr[i]]==undefined){
           obj[arr[i]]=1
